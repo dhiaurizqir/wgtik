@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670638151 source:d:\kuliah3\struktur data\alternatif2\main.cpp
+	"queue2.h"
+
+1670638151 d:\kuliah3\struktur data\alternatif2\queue2.h
+	<iostream>
+
+1670638155 source:d:\kuliah3\struktur data\alternatif2\queue2.cpp
+	"queue2.h"
+
